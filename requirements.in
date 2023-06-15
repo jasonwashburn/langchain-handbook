@@ -1,0 +1,8 @@
+pip-tools
+langchain
+jupyterlab
+huggingface_hub
+ipywidgets
+openai
+pre-commit
+nbqa
